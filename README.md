@@ -15,6 +15,7 @@ This repository contains a machine learning model designed to predict customer c
 Clone the repository and install the required dependencies:
 
 ```bash
-https://github.com/FirasKahlaoui/customer-churn.git
+https://github.com/siddhu00747/Customer-Churn-Prediction.git
 cd customer-churn
 pip install -r requirements.txt
+
